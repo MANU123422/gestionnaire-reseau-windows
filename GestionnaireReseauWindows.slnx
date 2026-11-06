@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GestionnaireReseauWindows/GestionnaireReseauWindows.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/GestionnaireReseauWindows.Tests/GestionnaireReseauWindows.Tests.csproj" />
+  </Folder>
+</Solution>
